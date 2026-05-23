@@ -1,0 +1,42 @@
+Running window test...
+
+Planning took: 0.05745363235473633 sec.
+
+Planning took: 0.004480123519897461 sec.
+
+Planning took: 0.005293130874633789 sec.
+
+Planning took: 0.006519317626953125 sec.
+
+Planning took: 0.00616002082824707 sec.
+
+Planning took: 0.0049250125885009766 sec.
+
+Planning took: 0.007506370544433594 sec.
+
+Planning took: 0.0055294036865234375 sec.
+
+Success: np.True_
+Path length: [np.float64(24.44355147687667), np.float64(26.04755548707146), np.float64(28.986385686998783), np.float64(31.9252158869261), np.float64(33.52921989712089), np.float64(34.39961883497138), np.float64(26.26766397128536), np.float64(23.848565420288626)]
+
+
+Running room test...
+
+Planning took: 0.0010037422180175781 sec.
+
+Planning took: 0.010988235473632812 sec.
+
+Planning took: 0.3892807960510254 sec.
+
+Planning took: 0.032230377197265625 sec.
+
+Planning took: 0.2911062240600586 sec.
+
+Planning took: 0.014667987823486328 sec.
+
+Planning took: 0.020113706588745117 sec.
+
+Planning took: 0.008892297744750977 sec.
+
+Success: np.False_
+Path length: [np.float64(4.769183698997228), np.float64(9.673688962024029), np.float64(7.523292527897919), np.float64(4.40399458459217), np.float64(8.294967033095126), np.float64(11.02415492196371), np.float64(10.870328255987053), np.float64(12.972573321801846)]

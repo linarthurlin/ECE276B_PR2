@@ -1,0 +1,38 @@
+Running single cube test...
+
+Planning took: 0.021464109420776367 sec.
+
+Success: np.True_
+Path length: 8
+
+
+Running maze test...
+
+Planning took: 43.88528633117676 sec.
+
+Success: np.True_
+Path length: 75
+
+
+Running flappy bird test...
+
+Planning took: 4.839632272720337 sec.
+
+Success: np.True_
+Path length: 25
+
+
+Running monza test...
+
+Planning took: 4.592359304428101 sec.
+
+Success: np.True_
+Path length: 76
+
+
+Running tower test...
+
+Planning took: 5.9871721267700195 sec.
+
+Success: np.True_
+Path length: 28
