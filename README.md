@@ -15,5 +15,23 @@ This file contains a class defining a node for the A* algorithm as well as an in
 ### 4. maps
 This folder contains 7 test environments described via a rectangular outer boundary and a list of rectangular obstacles. The start and goal points for each environment are specified in main.py.
 
+## Results
+Below are example planning results for two epsilon settings. Each section shows the same set of environments for visual comparison.
 
+### epsilon = 1.0
+![Flappy](results/epsilon_1.0/flappy.png)
+![Maze](results/epsilon_1.0/maze.png)
+![Monza](results/epsilon_1.0/monza.png)
+![Cube](results/epsilon_1.0/cube.png)
+![Tower](results/epsilon_1.0/tower.png)
+![Window](results/epsilon_1.0/window.png)
+![Room](results/epsilon_1.0/room.png)
 
+### epsilon = 5.0
+![Flappy](results/epsilon_5.0/flappy.png)
+![Maze](results/epsilon_5.0/maze.png)
+![Monza](results/epsilon_5.0/monza.png)
+![Cube](results/epsilon_5.0/cube.png)
+![Tower](results/epsilon_5.0/tower.png)
+![Window](results/epsilon_5.0/window.png)
+![Room](results/epsilon_5.0/room.png)
